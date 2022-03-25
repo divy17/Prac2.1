@@ -3,7 +3,7 @@
 //#include <OpenCL/opencl.h>
 //#else
 #include <CL/cl.h>
-//#endif
+//#endif for git
 
 int main() {
 
