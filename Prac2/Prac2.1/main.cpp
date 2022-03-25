@@ -1,5 +1,5 @@
 
-//Author: Christopher Hill For the EEE4120F course at UCT
+//Author: Divyan Chetty For the EEE4120F course at UCT
 
 #include<stdio.h>
 #include<CL/cl.h>
