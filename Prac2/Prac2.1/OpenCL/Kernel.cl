@@ -14,7 +14,7 @@ __kernel void HelloWorld(__global int* argument1, __global int* argument2, __glo
 	printf("Hello World\n");
 
         uint out = (workItemNum*arg1),arg2;
-        print("Hi from work item: %d work group: %d Args %d Output: %u \n ", workItemNum,workGroupNum, arg1, arg2, 0); 
+        print("Hi from work item: %d work group: %d Args %d Output: %u \n ", workItemNum,workGroupNum, arg1, arg2, out); 
 
 	//TODO: print the work item, work group and arguments
 	/*
